@@ -22,7 +22,7 @@
 
 # jobs.<job_id>.runs-on
 # runs-on字段指定运行所需要的虚拟机环境。它是必填字段。
-runs-on: ubuntu-latest
+# runs-on: ubuntu-latest
 
 # jobs.<job_id>.steps
 # steps字段指定每个 Job 的运行步骤，可以包含一个或多个步骤。每个步骤都可以指定以下三个字段。
